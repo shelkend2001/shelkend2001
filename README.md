@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shelkend2001
-- 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning django and react
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning Machine Learning With Python Using sci-kit learn
 - 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me @ shelkeniteesh2001@hotmail.com
 
